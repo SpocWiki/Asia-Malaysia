@@ -40,11 +40,18 @@ markerFolder: ./Trengganu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu|Trengganu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.public|Trengganu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.internal|Trengganu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.protect|Trengganu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.private|Trengganu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.personal|Trengganu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Trengganu.secret|Trengganu.secret]] 
+
+### #is_/same_as :: [Trengganu](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Trengganu.md) 
+
+### #is_/same_as :: [Trengganu.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Trengganu.public.md) 
+
+### #is_/same_as :: [Trengganu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Trengganu.internal.md) 
+
+### #is_/same_as :: [Trengganu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Trengganu.protect.md) 
+
+### #is_/same_as :: [Trengganu.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Trengganu.private.md) 
+
+### #is_/same_as :: [Trengganu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Trengganu.personal.md) 
+
+### #is_/same_as :: [Trengganu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Trengganu.secret.md)
 

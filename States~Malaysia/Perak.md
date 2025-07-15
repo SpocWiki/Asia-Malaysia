@@ -40,11 +40,18 @@ markerFolder: ./Perak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak|Perak]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.public|Perak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.internal|Perak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.protect|Perak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.private|Perak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.personal|Perak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Perak.secret|Perak.secret]] 
+
+### #is_/same_as :: [Perak](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perak.md) 
+
+### #is_/same_as :: [Perak.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perak.public.md) 
+
+### #is_/same_as :: [Perak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perak.internal.md) 
+
+### #is_/same_as :: [Perak.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perak.protect.md) 
+
+### #is_/same_as :: [Perak.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perak.private.md) 
+
+### #is_/same_as :: [Perak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perak.personal.md) 
+
+### #is_/same_as :: [Perak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perak.secret.md)
 

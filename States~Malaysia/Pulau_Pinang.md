@@ -40,11 +40,18 @@ markerFolder: ./Pulau_Pinang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang|Pulau_Pinang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.public|Pulau_Pinang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.internal|Pulau_Pinang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.protect|Pulau_Pinang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.private|Pulau_Pinang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.personal|Pulau_Pinang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Pulau_Pinang.secret|Pulau_Pinang.secret]] 
+
+### #is_/same_as :: [Pulau_Pinang](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pulau_Pinang.md) 
+
+### #is_/same_as :: [Pulau_Pinang.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pulau_Pinang.public.md) 
+
+### #is_/same_as :: [Pulau_Pinang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pulau_Pinang.internal.md) 
+
+### #is_/same_as :: [Pulau_Pinang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pulau_Pinang.protect.md) 
+
+### #is_/same_as :: [Pulau_Pinang.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pulau_Pinang.private.md) 
+
+### #is_/same_as :: [Pulau_Pinang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pulau_Pinang.personal.md) 
+
+### #is_/same_as :: [Pulau_Pinang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pulau_Pinang.secret.md)
 

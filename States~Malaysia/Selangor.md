@@ -40,11 +40,18 @@ markerFolder: ./Selangor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Selangor|Selangor]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Selangor.public|Selangor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Selangor.internal|Selangor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Selangor.protect|Selangor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Selangor.private|Selangor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Selangor.personal|Selangor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Selangor.secret|Selangor.secret]] 
+
+### #is_/same_as :: [Selangor](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Selangor.md) 
+
+### #is_/same_as :: [Selangor.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Selangor.public.md) 
+
+### #is_/same_as :: [Selangor.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Selangor.internal.md) 
+
+### #is_/same_as :: [Selangor.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Selangor.protect.md) 
+
+### #is_/same_as :: [Selangor.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Selangor.private.md) 
+
+### #is_/same_as :: [Selangor.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Selangor.personal.md) 
+
+### #is_/same_as :: [Selangor.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Selangor.secret.md)
 

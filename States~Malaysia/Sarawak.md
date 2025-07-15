@@ -40,11 +40,18 @@ markerFolder: ./Sarawak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sarawak|Sarawak]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sarawak.public|Sarawak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sarawak.internal|Sarawak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sarawak.protect|Sarawak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sarawak.private|Sarawak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sarawak.personal|Sarawak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Sarawak.secret|Sarawak.secret]] 
+
+### #is_/same_as :: [Sarawak](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak.md) 
+
+### #is_/same_as :: [Sarawak.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak.public.md) 
+
+### #is_/same_as :: [Sarawak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak.internal.md) 
+
+### #is_/same_as :: [Sarawak.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak.protect.md) 
+
+### #is_/same_as :: [Sarawak.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak.private.md) 
+
+### #is_/same_as :: [Sarawak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak.personal.md) 
+
+### #is_/same_as :: [Sarawak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak.secret.md)
 

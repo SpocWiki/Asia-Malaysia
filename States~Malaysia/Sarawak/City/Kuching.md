@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Sarawak/City/Kuching|Kuching]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Sarawak/City/Kuching.public|Kuching.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Sarawak/City/Kuching.internal|Kuching.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Sarawak/City/Kuching.protect|Kuching.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Sarawak/City/Kuching.private|Kuching.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Sarawak/City/Kuching.personal|Kuching.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Sarawak/City/Kuching.secret|Kuching.secret]] 
+
+### #is_/same_as :: [Kuching](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak/City/Kuching.md) 
+
+### #is_/same_as :: [Kuching.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak/City/Kuching.public.md) 
+
+### #is_/same_as :: [Kuching.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak/City/Kuching.internal.md) 
+
+### #is_/same_as :: [Kuching.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak/City/Kuching.protect.md) 
+
+### #is_/same_as :: [Kuching.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak/City/Kuching.private.md) 
+
+### #is_/same_as :: [Kuching.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak/City/Kuching.personal.md) 
+
+### #is_/same_as :: [Kuching.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak/City/Kuching.secret.md)
+

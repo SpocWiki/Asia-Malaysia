@@ -40,11 +40,18 @@ markerFolder: ./Putrajaya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya|Putrajaya]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.public|Putrajaya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.internal|Putrajaya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.protect|Putrajaya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.private|Putrajaya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.personal|Putrajaya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Malaysia/Counties/Putrajaya.secret|Putrajaya.secret]] 
+
+### #is_/same_as :: [Putrajaya](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.md) 
+
+### #is_/same_as :: [Putrajaya.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.public.md) 
+
+### #is_/same_as :: [Putrajaya.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.internal.md) 
+
+### #is_/same_as :: [Putrajaya.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.protect.md) 
+
+### #is_/same_as :: [Putrajaya.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.private.md) 
+
+### #is_/same_as :: [Putrajaya.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.personal.md) 
+
+### #is_/same_as :: [Putrajaya.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.secret.md)
 

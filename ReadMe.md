@@ -135,10 +135,4 @@ Capital :: [[Kuala_Lumpur]]
 
 
 
-## Confidential Links & Embeds: 
-- [[../Malay_Archipelago/Malaysia|Malaysia]]  
-- [[../../../../_internal/geo/Continent/Oceania/Malaysia.internal|Malaysia.internal]]  
-- [[../../../../_protect/geo/Continent/Oceania/Malaysia.protect|Malaysia.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Malaysia.private|Malaysia.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Malaysia.personal|Malaysia.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Malaysia.secret|Malaysia.secret]] 
+
