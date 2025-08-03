@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::1.56] 
 [name::Kuching] 
 State ::  
-Country :: [[Sarawak]]  
+Country :: [[../../../Sarawak]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
