@@ -1,38 +1,53 @@
 ---
-location: [ 2.9 , 113.6 ] 
-type: geo-Region
-title: Sarawak
-
-license: CC BY-SA 4.0
+location:
+  - 1.56
+  - 110.345
+type: private_note
+title:
+  "{ newTitle: null }": 
+license: (c)copyrighted
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
-draft: false
-confidential: public
-
-location:
-- 1.56
-- 110.345
+draft: true
+confidential: private
 SpocWebEntityId: 76710
 tags:
-- geo/Country/Region
+  - geo/Country/Region
+  - "{ newTitle: null }": 
+  - excalidraw
 aliases:
-- Sarawak
-
+  - Sarawak
+  - "{ newTitle: null }": 
 Languages:
-- de
-
-cssclasses: geo-Region
-publish: true
-linkTitle: 
-keywords: 
+  - de
+cssclasses:
+  - private
+  - note
+publish: false
+linkTitle:
+  "{ newTitle: null }": 
+keywords:
+  "{ newTitle: null }": 
 layout: 
 publishDate: 
 expiryDate: 
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+lang: en
 ---
 
+# [[Sarawak]] 
+
 [ISO2::]
-[ISO3::]
+[ISO3::] 
+
+## #has_/map  
+
 ```leaflet
 id: Sarawak
 zoomFeatures: true 
@@ -78,3 +93,22 @@ Capital :: [[Kuching]]
 
 ### #is_/same_as :: [Sarawak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sarawak.secret.md)
 
+
+# [[Sarawak]] 
+
+#is_/part_of :: [[Sarawak]] 
+
+![[Sarawak.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
