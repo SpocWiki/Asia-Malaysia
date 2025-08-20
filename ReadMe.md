@@ -1,42 +1,43 @@
 ---
 location:
-- 3.17
-- 101.7
+  - 3.17
+  - 101.7
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26975
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Malaysia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Malaysia
-- Malasia
-- Malaisie
-- ماليزيا
-- 马来西亚
-- Малайзия
-- Federación de Malasia
+  - Malaysia
+  - Malasia
+  - Malaisie
+  - ماليزيا
+  - 马来西亚
+  - Малайзия
+  - Federación de Malasia
 Languages:
-- ms-MY
-- en
-- zh
-- ta
-- te
-- ml
-- pa
-- th
+  - ms-MY
+  - en
+  - zh
+  - ta
+  - te
+  - ml
+  - pa
+  - th
 ---
 
 
