@@ -40,17 +40,17 @@ markerFolder: ./Labuan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Labuan](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan|Labuan]] 
 
-### #is_/same_as :: [Labuan.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.public|Labuan.public]] 
 
-### #is_/same_as :: [Labuan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.internal|Labuan.internal]] 
 
-### #is_/same_as :: [Labuan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.protect|Labuan.protect]] 
 
-### #is_/same_as :: [Labuan.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.private|Labuan.private]] 
 
-### #is_/same_as :: [Labuan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.personal|Labuan.personal]] 
 
-### #is_/same_as :: [Labuan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Labuan.secret|Labuan.secret]] 
 

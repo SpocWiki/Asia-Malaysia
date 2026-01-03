@@ -40,17 +40,17 @@ markerFolder: ./Perlis/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Perlis](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis|Perlis]] 
 
-### #is_/same_as :: [Perlis.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.public|Perlis.public]] 
 
-### #is_/same_as :: [Perlis.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.internal|Perlis.internal]] 
 
-### #is_/same_as :: [Perlis.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.protect|Perlis.protect]] 
 
-### #is_/same_as :: [Perlis.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.private|Perlis.private]] 
 
-### #is_/same_as :: [Perlis.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.personal|Perlis.personal]] 
 
-### #is_/same_as :: [Perlis.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Perlis.secret|Perlis.secret]] 
 

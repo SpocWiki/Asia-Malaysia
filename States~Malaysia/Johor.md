@@ -40,17 +40,17 @@ markerFolder: ./Johor/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Johor](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor|Johor]] 
 
-### #is_/same_as :: [Johor.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.public|Johor.public]] 
 
-### #is_/same_as :: [Johor.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.internal|Johor.internal]] 
 
-### #is_/same_as :: [Johor.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.protect|Johor.protect]] 
 
-### #is_/same_as :: [Johor.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.private|Johor.private]] 
 
-### #is_/same_as :: [Johor.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.personal|Johor.personal]] 
 
-### #is_/same_as :: [Johor.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Johor.secret|Johor.secret]] 
 

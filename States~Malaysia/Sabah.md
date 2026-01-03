@@ -72,36 +72,17 @@ has_place_continent:: [[Asia]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sabah](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah|Sabah]] 
 
-### #is_/same_as :: [Sabah.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.public|Sabah.public]] 
 
-### #is_/same_as :: [Sabah.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.internal|Sabah.internal]] 
 
-### #is_/same_as :: [Sabah.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.protect|Sabah.protect]] 
 
-### #is_/same_as :: [Sabah.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.private|Sabah.private]] 
 
-### #is_/same_as :: [Sabah.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.personal|Sabah.personal]] 
 
-### #is_/same_as :: [Sabah.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Sabah.secret|Sabah.secret]] 
 
-
-# [[Sabah]] 
-
-#is_/part_of :: [[Sabah]] 
-
-![[Sabah.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

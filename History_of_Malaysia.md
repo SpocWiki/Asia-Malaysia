@@ -30,3 +30,20 @@ Commons_category: History of Malaysia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Malaysia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/History_of_Malaysia|History_of_Malaysia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/History_of_Malaysia.public|History_of_Malaysia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/History_of_Malaysia.internal|History_of_Malaysia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/History_of_Malaysia.protect|History_of_Malaysia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/History_of_Malaysia.private|History_of_Malaysia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/History_of_Malaysia.personal|History_of_Malaysia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/History_of_Malaysia.secret|History_of_Malaysia.secret]] 
+

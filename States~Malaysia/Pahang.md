@@ -40,17 +40,17 @@ markerFolder: ./Pahang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pahang](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang|Pahang]] 
 
-### #is_/same_as :: [Pahang.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.public|Pahang.public]] 
 
-### #is_/same_as :: [Pahang.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.internal|Pahang.internal]] 
 
-### #is_/same_as :: [Pahang.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.protect|Pahang.protect]] 
 
-### #is_/same_as :: [Pahang.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.private|Pahang.private]] 
 
-### #is_/same_as :: [Pahang.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.personal|Pahang.personal]] 
 
-### #is_/same_as :: [Pahang.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Pahang.secret|Pahang.secret]] 
 

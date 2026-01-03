@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kuala_Lumpur](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur|Kuala_Lumpur]] 
 
-### #is_/same_as :: [Kuala_Lumpur.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.public|Kuala_Lumpur.public]] 
 
-### #is_/same_as :: [Kuala_Lumpur.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.internal|Kuala_Lumpur.internal]] 
 
-### #is_/same_as :: [Kuala_Lumpur.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.protect|Kuala_Lumpur.protect]] 
 
-### #is_/same_as :: [Kuala_Lumpur.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.private|Kuala_Lumpur.private]] 
 
-### #is_/same_as :: [Kuala_Lumpur.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.personal|Kuala_Lumpur.personal]] 
 
-### #is_/same_as :: [Kuala_Lumpur.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Kuala_Lumpur/City/Kuala_Lumpur.secret|Kuala_Lumpur.secret]] 
 

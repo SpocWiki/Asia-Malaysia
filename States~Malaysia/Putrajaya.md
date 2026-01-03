@@ -40,17 +40,17 @@ markerFolder: ./Putrajaya/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Putrajaya](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya|Putrajaya]] 
 
-### #is_/same_as :: [Putrajaya.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.public|Putrajaya.public]] 
 
-### #is_/same_as :: [Putrajaya.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.internal|Putrajaya.internal]] 
 
-### #is_/same_as :: [Putrajaya.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.protect|Putrajaya.protect]] 
 
-### #is_/same_as :: [Putrajaya.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.private|Putrajaya.private]] 
 
-### #is_/same_as :: [Putrajaya.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.personal|Putrajaya.personal]] 
 
-### #is_/same_as :: [Putrajaya.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Putrajaya.secret|Putrajaya.secret]] 
 

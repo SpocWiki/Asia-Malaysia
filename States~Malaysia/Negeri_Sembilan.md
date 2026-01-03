@@ -40,17 +40,17 @@ markerFolder: ./Negeri_Sembilan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Negeri_Sembilan](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan|Negeri_Sembilan]] 
 
-### #is_/same_as :: [Negeri_Sembilan.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.public|Negeri_Sembilan.public]] 
 
-### #is_/same_as :: [Negeri_Sembilan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.internal|Negeri_Sembilan.internal]] 
 
-### #is_/same_as :: [Negeri_Sembilan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.protect|Negeri_Sembilan.protect]] 
 
-### #is_/same_as :: [Negeri_Sembilan.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.private|Negeri_Sembilan.private]] 
 
-### #is_/same_as :: [Negeri_Sembilan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.personal|Negeri_Sembilan.personal]] 
 
-### #is_/same_as :: [Negeri_Sembilan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia/States~Malaysia/Negeri_Sembilan.secret|Negeri_Sembilan.secret]] 
 
