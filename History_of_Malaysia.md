@@ -1,11 +1,11 @@
 ---
 aliases:
 has_id_wikidata: Q1064598
-subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Malaysia,833]]"
-country: "[[_Standards/WikiData/WD~Malaysia,833]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Asia,627531|WD~history_of_Asia,627531]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
+country: "[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
 Commons_category: History of Malaysia
 ---
 
