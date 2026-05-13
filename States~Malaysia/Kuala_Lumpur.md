@@ -61,7 +61,7 @@ markerFolder: ./Kuala_Lumpur/
 >
 > Kuala Lumpur was ranked the 6th most-visited city in the world on the Mastercard Destination Cities Index in 2019. The city houses three of the world's ten largest shopping malls. Kuala Lumpur ranks 70th in the world and the second in Southeast Asia after Singapore for the Economist Intelligence Unit's Global Liveability Ranking and ninth in ASPAC and second in Southeast Asia after Singapore for KPMG's Leading Technology Innovation Hub 2021. Kuala Lumpur was named World Book Capital 2020 by UNESCO. In 2025, Kuala Lumpur was ranked second for the best outstanding city in Southeast Asia, after Singapore, and 79th in the world by the Oxford Economic Papers' Global Cities Index.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kuala%20Lumpur)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kuala%20Lumpur) 
 
 
 ## Confidential Links & Embeds: 

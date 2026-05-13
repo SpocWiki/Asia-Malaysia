@@ -67,7 +67,7 @@ has_place_continent:: [[Asia]]
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::117]
-[has_place_latitude::5.25]
+[has_place_latitude::5.25] 
 
 
 ## Confidential Links & Embeds: 

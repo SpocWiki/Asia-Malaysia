@@ -74,7 +74,7 @@ Capital :: [[Kuching]]
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::110.345]
-[has_place_latitude::1.56]
+[has_place_latitude::1.56] 
 
 
 ## Confidential Links & Embeds: 
