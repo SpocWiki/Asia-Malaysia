@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 马来西亚
 dv_UNTERM_French_Formal: la Malaisie
 dv_UNTERM_Russian: Малайзия
 dv_UNTERM_Russian_Formal: Малайзия
-dv_Region_Name: '[[../../../Asia|Asia]]'
+dv_Region_Name: '[[../../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Malaysia]]'
 dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
@@ -52,7 +52,7 @@ dv_ISO2: MY
 dv_ISO3: MYS
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+  - '[[../../../../../../WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia|Malaysia]]'
   - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.public|Malaysia.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.internal|Malaysia.internal]]'
@@ -377,16 +377,16 @@ dv_has_:
 dv_has_name_de: Malaysia
 dv_Area-Total: 329758
 dv_Area-Land: 328550
-dv_has_place_continent: '[[../../../Oceania|Oceania]]'
+dv_has_place_continent: '[[../../../../Oceania|Oceania]]'
 dv_VehicleCode: MAL
 dv_Capital: '[[Kuala_Lumpur]]'
 dv_Alcohol-l: 0.8
-dv_is_a_: '[[../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 101.7
 dv_has_place_latitude: 3.17
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[../../../../../../WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia|Malaysia]]'
 - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.public|Malaysia.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.internal|Malaysia.internal]]'
@@ -1185,7 +1185,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Malaysia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1205,7 +1205,7 @@ markerFile: [[Malaysia]]
 
 ```leaflet
 id: Malaysia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
